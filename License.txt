@@ -1,23 +1,20 @@
-Thanks For Downloading Timer Template.
+Here's a simple license for your portfolio website:  
 
-Checkout Our more templates From http://www.themefisher.com 
+---
 
-License:-
+**MIT License**  
 
-What You May Do
-1-You are permitted to use the resources in any number of personal and commercial projects for yourself or a client.
-2-You may modify the resources according to your requirements and include them into works such as websites
+Copyright (c) 2025 **Sachin Kumar**  
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this website and associated documentation files (the "Website"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Website, subject to the following conditions:  
 
-What You May Not Do
-1-You do not have the rights to resell, sublicense or redistribute (even for free) the files on its own or as a separate attachment from any of your work
-2-If you wish to promote my resources on your site, you must link back to the resource page where users can find the download and not directly to the download file.
-3-You are not allowed to Remove Back link to themefisher.com in template unless you buy a $15 license for template
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Website.  
+2. This Website is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.  
+3. The name **Sachin Kumar** may not be used to endorse or promote any derivative works without prior written permission.  
+4. Any modifications or derivative works must include attribution to the original author.  
 
-What May you Do After Buying the License
-1-You are allowed to Remove Back link/Credits from the templates footer
-2-You will get premium support from me once
-Buy License Now ( http://www.themefischer.com/license)
+**By using this Website, you agree to these terms.**  
 
-If you have any question,feel free to contact us (themefisher@gmail.com) .
+---
 
+Let me know if you need modifications! 🚀
